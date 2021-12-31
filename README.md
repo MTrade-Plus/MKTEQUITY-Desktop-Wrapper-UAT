@@ -1,0 +1,1 @@
+# MKTEQUITY-Desktop-Wrapper-UAT
